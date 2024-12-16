@@ -1,0 +1,6 @@
+Filament = Generic PLA 0.4mm nozzle;
+Filament temperature = 210ºC;
+Plate temperature = 60ºC; Dynamic
+quality - 0.16mm;
+Plate Adhesion = s.kirt;
+Generate support = 45º;
